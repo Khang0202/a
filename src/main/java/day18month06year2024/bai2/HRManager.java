@@ -1,4 +1,4 @@
-package b;
+package day18month06year2024.bai2;
 
 public class HRManager extends Employee{
 

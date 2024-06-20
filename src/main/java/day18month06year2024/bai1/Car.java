@@ -1,4 +1,4 @@
-package a;
+package day18month06year2024.bai1;
 
 public class Car extends Vehicle {
     public Car(int speed){

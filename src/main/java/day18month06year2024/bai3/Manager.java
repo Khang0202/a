@@ -1,4 +1,4 @@
-package c;
+package day18month06year2024.bai3;
 
 public class Manager extends Employee{
 
